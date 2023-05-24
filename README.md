@@ -3,5 +3,5 @@ Este script automatiza el escaneo de multiples segmentos de red utilizando la he
 
 ## **Uso**
 ```
-[+] python3 scan.py <nombre_archivo_con-los-segmentos>
+[+] python3 FPING_scan.py <nombre_archivo_con-los-segmentos>
 ```
